@@ -339,7 +339,7 @@
   )
 
   (module Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm (layer F.Cu) (tedit 5B391E66) (tstamp 61BBBE7E)
-    (at 135.21 71.68)
+    (at 106.68 82.296)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (path /61D45681)
