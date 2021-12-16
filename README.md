@@ -31,3 +31,8 @@ can be cheaper in bulk
 |U3          |1       |ATmega328P-AU       |2.21 |
 |Y1          |1       |Crystal_GND2_Small  |0.245|
 |            |        |                    |12.387|
+
+1. Update the difference protocolls
+2. Install in the bunker, with sensors
+3. make a case
+4. Do workshop
